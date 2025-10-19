@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kx-liu
-- 👀 I’m interested in python, data science & machine learning ...
-- 🌱 I’m currently learning in SEM, Beihang University
-- 📫 How to reach me Liu_K_X@outlook.com
+- 👀 I’m interested in Statistics, focusing on time series analysis, factor model, ...
+- 🌱 I’m currently a PhD student in LSE, United Kingdom
+- 📫 How to reach me K.Liu31@lse.ac.uk
+- 🕸️ Personal website: [https://kx-liu.github.io/](https://kx-liu.github.io/)
 
 <!---
 kx-liu/kx-liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
